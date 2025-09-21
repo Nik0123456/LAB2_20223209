@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TeleCat 🐱</string>
+    <string name="welcome_title">¡Bienvenido a TeleCat 🐱!</string>
+    <string name="welcome_subtitle">La app diseñada para generar memes de gatos y divertirte :)</string>
+    <string name="cantidad_label">Cantidad:</string>
+    <string name="cantidad_hint">Escribe aquí</string>
+    <string name="texto_label">Texto:</string>
+    <string name="escribir_texto_label">Escribir texto:</string>
+    <string name="escribir_texto_hint">Escribe aquí</string>
+    <string name="comprobar_conexion">Comprobar Conexión</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="elegir">Elegir</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="conexion_exitosa">Conexión exitosa</string>
+    <string name="sin_conexion">Sin conexión a internet</string>
+    <string name="error_cantidad_vacia">La cantidad no puede estar vacía</string>
+    <string name="error_texto_requerido">Debe escribir texto cuando selecciona Sí</string>
+    <string name="error_validar_conexion">Debe comprobar la conexión antes de comenzar</string>
+    
+    <string-array name="texto_options">
+        <item>Elegir</item>
+        <item>Sí</item>
+        <item>No</item>
+    </string-array>
+</resources>
